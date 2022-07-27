@@ -1,3 +1,8 @@
+/dist/
+/test/
+
+
+
 # System Files
 .DS_Store
 Thumbs.db
